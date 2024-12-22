@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002621226610",
+    "project_id": "villagemitra-3cd50",
+    "storage_bucket": "villagemitra-3cd50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002621226610:android:1fb2fcd38fd0656c987ceb",
+        "android_client_info": {
+          "package_name": "com.dyp.villagemitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkJ9syZwIvHgQaBt3JmgIeutrSnQEapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
