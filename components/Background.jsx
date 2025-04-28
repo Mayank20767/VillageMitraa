@@ -12,6 +12,6 @@ const Background= ({ children }) => {
     </View>
   )
 }
-
+// this is my change
 
 export default Background;
